@@ -27,8 +27,7 @@ example/build/
 .yarn-integrity
 
 .DS_Store
-/lib
-/dist
+/lib 
 .idea/
 .rpt2_cache
 package-lock.json
